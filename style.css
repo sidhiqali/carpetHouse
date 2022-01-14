@@ -453,7 +453,7 @@ padding: 3rem ;
     color:#37474f; 
     padding-left: 2rem;
     line-height: normal;
-    font-weight: 450;
+    font-weight: 400;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
@@ -827,7 +827,6 @@ a { text-decoration: none; display: block;}
         color:#37474f; 
         padding-left: 2rem;
         line-height: normal;
-        font-weight: bold;
         text-align: center;
         font-family: 'Poppins', sans-serif;
     }
