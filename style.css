@@ -332,6 +332,7 @@ body {
     align-items: center;
     justify-content: center;
     padding-top: 3rem;
+    font-weight: bold;
 }
 .about-container{
     width: 100%;
@@ -357,6 +358,7 @@ body {
 .btn a{
     text-decoration: none;
     color: white;
+    padding-right: 2rem;
 }
 .btn a:hover{
     text-decoration: none;
@@ -384,14 +386,12 @@ padding: 3rem ;
 .btn{
     height:50px;
     width: 150px;
-    margin: 2rem 4rem;
     text-align: center;
 }
     .btn-grad {background-image: linear-gradient(to right, #1c8a96 0%, #2b7a67  51%, #417b81  100%)}
     .btn-grad {
         height: 50px;
        margin: 10px;
-       margin-right: 0;
        padding: 15px 45px;
        text-align: center;
        text-transform: uppercase;
@@ -416,7 +416,7 @@ padding: 3rem ;
     font-size: 1.5rem;
     font-weight: bolder;
     color: white;
-    text-align: center  ;    ;
+    text-align: center  ;    
 }
 
 /* about-section end */
@@ -435,6 +435,7 @@ padding: 3rem ;
     display: flex;
     justify-content: center;
     color: #111;
+    font-weight: bold;
 }
 .service-content{
     display: flex;
@@ -452,7 +453,7 @@ padding: 3rem ;
     color:#37474f; 
     padding-left: 2rem;
     line-height: normal;
-    font-weight: 550;
+    font-weight: 450;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
@@ -492,6 +493,7 @@ padding: 3rem ;
     justify-content: center;
     color: #111;
     padding: 1rem;
+    font-weight: bold;
 }
 .card_desing_cnt{
 }
@@ -559,11 +561,13 @@ a { text-decoration: none; display: block;}
     text-align: center;
     color: #111;
     padding: 1rem;
+    font-weight: bold;
 }
 .contact h2{
     font-size: 3rem;
     color: #111;
     padding: 1rem;
+    font-weight: bold;
 }
 .all-container{
   width: 100%;
@@ -823,7 +827,7 @@ a { text-decoration: none; display: block;}
         color:#37474f; 
         padding-left: 2rem;
         line-height: normal;
-        font-weight: 600;
+        font-weight: bold;
         text-align: center;
         font-family: 'Poppins', sans-serif;
     }
